@@ -1,7 +1,8 @@
+**# game_play**
+
 <!DOCTYPE html>
 <html>
   <body>
-    # game_play <br/>
 Functions in Python for adversarial game playing including minimax and alpha-beta pruning.<br/>
 Only bg2625_ai.py contains my work. All the other files are supporting documents which were provided for the assignment.
 The project creates an AI player for the game Reversi, also known as Othello. After downloading the files, the game can be run using the following command:<br/>
