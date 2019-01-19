@@ -1,4 +1,4 @@
-**# game_play**
+# game_play
 
 <!DOCTYPE html>
 <html>
